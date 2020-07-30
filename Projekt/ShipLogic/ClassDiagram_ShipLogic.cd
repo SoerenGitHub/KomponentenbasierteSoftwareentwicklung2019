@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ShipLogic.Commands.SLogicCommands" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAIAAACAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Commands\SLogicCommands.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ShipLogic.Entities.ShipInfo">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAgAAgAIAAQBAAAAAAAAAAAAAABQAAAAQ=</HashCode>
+      <FileName>Entitites\ShipInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShipLogic.Factories.SFactoryISLogicCommands">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\SFactoryISLogicCommands.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShipLogic.Factories.SFactoryISLogicQueries">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\SFactoryISLogicQueries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShipLogic.Queries.SLogicQueries" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEAAAAAAAAAAAAQAQAAAAAAAAAABAAAgAAAAAA=</HashCode>
+      <FileName>Queries\SLogicQueries.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ShipLogic.Utils.Log">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Utils\Log.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ShipLogic.ISLogicCommands">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAIAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>ISLogicCommands.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ShipLogic.ISLogicQueries">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAQAQAAAAAAAAAABAAAgAAAAAA=</HashCode>
+      <FileName>ISLogicQueries.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ShipLogic.SIDataRead">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAQAQAAAAAAIAAABAAAgAgAAAA=</HashCode>
+      <FileName>SIDataRead.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ShipLogic.SIDataWrite">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAIAAAAAIAAAAQAAAAgAAAA=</HashCode>
+      <FileName>SIDataWrite.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

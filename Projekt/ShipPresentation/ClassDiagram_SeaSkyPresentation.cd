@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SeaSkyPresentation.Converter.CDateToStringConverter" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Converter\CDateToStringConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SeaSkyPresentation.Converter.CStringToIntConverter" BaseTypeListCollapsed="true">
+    <Position X="14" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Converter\CStringToIntConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SeaSkyPresentation.Factories.CBoostrapper">
+    <Position X="0.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Factories\CBoostrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSkyPresentation.Factories.SFactoryIDialog">
+    <Position X="2.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\SFactoryIDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSkyPresentation.Helper.WinHandler">
+    <Position X="14" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAQAAAAAAACIAAAAAAAAAAAAQEAAAAAIAAAAAA=</HashCode>
+      <FileName>Helper\WinHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSkyPresentation.Properties.Resources">
+    <Position X="7.25" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSkyPresentation.Properties.Settings">
+    <Position X="14" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSkyPresentation.Services.CServiceOfferFlight">
+    <Position X="0.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAQAIgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\CServiceOfferFlight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSkyPresentation.Services.CServiceOfferShipInfo">
+    <Position X="5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAQAAAAAAAAAgAAAAIAAAAAA=</HashCode>
+      <FileName>Services\CServiceOfferShipInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSkyPresentation.Services.CServiceSearchFlight">
+    <Position X="9.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIBAAAAAABAAAAEAAAAAAAAAAAAgAoAAAAAgAAAAA=</HashCode>
+      <FileName>Services\CServiceSearchFlight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSkyPresentation.Services.CServiceSearchShipInfo">
+    <Position X="11.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAACAAAAAAAAAAAAIAAAAAAAAAgAAAAAgAAAAA=</HashCode>
+      <FileName>Services\CServiceSearchShipInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSkyPresentation.ViewModels.CViewModelAdministrationFlight">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAAAAAASASAAAAAkAAAQACABgAggAFAABAAABEgQI=</HashCode>
+      <FileName>ViewModels\CViewModelAdministrationFlight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSkyPresentation.ViewModels.CViewModelAdministrationShipInfo">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAAAAAACACAABACEAAAQACABAAggAEAABABABEAAA=</HashCode>
+      <FileName>ViewModels\CViewModelAdministrationShipInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSkyPresentation.ViewModels.CViewModelBase">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\CViewModelBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SeaSkyPresentation.ViewModels.CViewModelFilterFlight">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACgAAAAwBQAABEAACgoAAFAAAgAQIAgQAABIADA=</HashCode>
+      <FileName>ViewModels\CViewModelFilterFlight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSkyPresentation.ViewModels.CViewModelFilterShipInfo">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAACgAAAAgBQAABEAAAAoQAFAAAgAQIAkQAABIADA=</HashCode>
+      <FileName>ViewModels\CViewModelFilterShipInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSkyPresentation.ViewModels.CViewModelMainFlight">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABEAAAAAAAAAAAAACABAAAAAAAA=</HashCode>
+      <FileName>ViewModels\CViewModelMainFlight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSkyPresentation.ViewModels.CViewModelMainShipInfo">
+    <Position X="16.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAABAAAACIAAAAA=</HashCode>
+      <FileName>ViewModels\CViewModelMainShipInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSkyPresentation.ViewModels.CViewModelUpdateFlight">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAIAAASACAAAAAkAAAAACAAgEggAFAAAAAAAAgQI=</HashCode>
+      <FileName>ViewModels\CViewModelUpdateFlight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSkyPresentation.ViewModels.CViewModelUpdateShipInfo">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAADACAABACEAAAAACABAAggAEAAAABAAAAAA=</HashCode>
+      <FileName>ViewModels\CViewModelUpdateShipInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSkyPresentation.Views.CViewMain" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAMAAAAAAIAAAABIkAAgBAAAAgAAAAIAAAYAAAAA=</HashCode>
+      <FileName>Views\CViewMain.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SeaSkyPresentation.Views.CViewUpdateFlight" BaseTypeListCollapsed="true">
+    <Position X="5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAIEAAAAAACAAAAgABAAAg=</HashCode>
+      <FileName>Views\CViewUpdateFlight.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SeaSkyPresentation.Views.CViewUpdateShipInfo" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAIEAAAAAACAAAAgABAAAA=</HashCode>
+      <FileName>Views\CViewUpdateShipInfo.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SeaSkyPresentation.Views.Pages.CViewAdministrationFlight" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAgAAAAAAIAAoAQAAAAAAAAEAAAEABAg=</HashCode>
+      <FileName>Views\Pages\CViewAdministrationFlight.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SeaSkyPresentation.Views.Pages.CViewAdministrationShipInfo" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAgAAAIEAoAQAAAAAAAAAAAAEABAg=</HashCode>
+      <FileName>Views\Pages\CViewAdministrationShipInfo.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SeaSkyPresentation.Views.Pages.CViewFilterFlight" BaseTypeListCollapsed="true">
+    <Position X="11.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAIAAEAAAAAAAAIAAAAAAAAAAAAAAQAAAg=</HashCode>
+      <FileName>Views\Pages\CViewFilterFlight.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SeaSkyPresentation.Views.Pages.CViewFilterShipInfo" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIEAEAAAAAAAAIAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Views\Pages\CViewFilterShipInfo.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

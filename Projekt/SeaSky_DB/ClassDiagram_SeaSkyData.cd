@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SeaSky_DB.ADB_Handler">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAASgAgAIAAIAAAEAAiAAAA=</HashCode>
+      <FileName>ADB_Handler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSky_DB.Factories.SFDB_ReadF">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\SFDB_ReadF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSky_DB.Factories.SFDB_ReadS">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\SFDB_ReadS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSky_DB.Factories.SFDB_WriteF">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\SFDB_WriteF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSky_DB.Factories.SFDB_WriteS">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\SFDB_WriteS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaSky_DB.Read.CDB_ReadF">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACgAAAgAAAAAABAAAAAAQAAAAAAAAAAAAAACQIgAAA=</HashCode>
+      <FileName>Read\CDB_ReadF.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SeaSky_DB.Read.CDB_ReadS">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAQAQAAAAEAAAAABAAAgAAgAAA=</HashCode>
+      <FileName>Read\CDB_ReadS.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SeaSky_DB.Write.CDB_WriteF">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Write\CDB_WriteF.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SeaSky_DB.Write.CDB_WriteS">
+    <Position X="7.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAIAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Write\CDB_WriteS.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
